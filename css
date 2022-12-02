@@ -1,0 +1,31 @@
+body
+{
+  text-align:center
+}
+
+em strong
+{color:DarkMagenta}
+
+#Barbearia
+{width:35%}
+
+.principal
+{background:#CCCCCC;
+  padding:30px}
+
+.beneficios
+{background:#FFFFFF}
+
+ul
+{display:inline-block;
+vertical-align:top;
+width:20%;
+margin-right:25%;
+padding:20px}
+
+.itens
+{text-align: left;
+  font-style: italic;
+font-size:25px}
+.imagembeneficios
+{width:25%}
